@@ -14,7 +14,7 @@ This is my personal web development portfolio, showcasing my skills and projects
 
 ## Live Demo
 
-Check out the live demo of my portfolio [here](https://yourportfolio.com).
+Check out the live demo of my portfolio [here](https://alok-x0s1.github.io/My_Portfolio_2/).
 
 
 ## Introduction
