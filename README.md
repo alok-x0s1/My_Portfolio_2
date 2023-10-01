@@ -44,8 +44,8 @@ To enhance user experience and accommodate different preferences, the portfolio 
 ## Usage
 To use this portfolio template for your own web development projects, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git`
-2. Navigate to the project directory: `cd your-portfolio`
+1. Clone the repository: `git clone https://github.com/alok-x0s1/My_Portfolio_2.git`
+2. Navigate to the project directory: `cd My_Portfolio_2`
 3. Customize the content in the HTML files to match your own skills, services, projects, and personal information.
 4. Modify the CSS files to adapt the visual style and color scheme to your liking.
 5. Update the Swiper.js settings in the Portfolio section to add your own projects.
